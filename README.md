@@ -1,7 +1,5 @@
-# cushLEPOR
-cushLEPOR submission to WMT2021 Metric Shared Task
-
-place holder for the data to be shared.
+# cushLEPOR: Customised hLEPOR Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements
+cushLEPOR submission to WMT2021 Metric Shared Task - place holder for the data to be shared.
 
 cushLEPOR(LM): tuned version using language model LaBSE (Language-agnostic BERT Sentence Embedding) by Feng et al (2020).
 
