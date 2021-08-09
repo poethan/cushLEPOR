@@ -13,8 +13,22 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
 - dependent package: WMT20-MQM/pSQM ( the original link https://github.com/google/wmt-mqm-human-evaluation)
 - dependent LM: LaBSE (the original LaBSE link: https://github.com/bojone/labse)
 
-- reference paper (or bibtex format): 
+- reference paper (with bibtex format): 
 
     Gleb Erofeev, Irina Sorokina, Aaron Li-Feng Han, and Serge Gladkoff. 2021. cushlepor uses labse distilled knowledge to improve correlation with human translations. In Proceedings for the MT summit - User Track (In Press), online. Association for Computa- tional Linguistics & AMTA.
 
     Also ''cushLEPOR: Customised hLEPOR Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements".  In WMT21 metrics task.
+
+@inproceedings{cushLEPOR21MTsummit,
+    title = "cushLEPOR uses LABSE distilled knowledge to improve correlation with human translations",
+    author = "Gleb Erofeev and
+        Irina Sorokina	and 
+    Aaron Li-Feng Han and
+    Serge Gladkoff ",
+    booktitle = "Proceedings for the MT summit - User Track (In Press)",
+    month = August,
+    year = "2021",
+    address = "online",
+    publisher = "Association for Computational Linguistics \& AMTA",
+    url = "https://www.aclweb.org/anthology/"
+}
