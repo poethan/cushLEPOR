@@ -31,5 +31,5 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
     url = "https://www.aclweb.org/anthology/"
 }
 
-- Contact: lifeng.han[a-t]adaptcentre.ie, <serge.gladkoff[a-t]logrusglobal.com
+- Contact: lifeng.han[a-t]adaptcentre.ie & serge.gladkoff[a-t]logrusglobal.com
 - Institutes and orgnization: ADAPT reserach Centre (adaptcentre.ie) & Logrus Global (https://logrusglobal.com/)
