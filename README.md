@@ -11,7 +11,7 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
 - dependent human label data: WMT20-MQM/pSQM ( the original link https://github.com/google/wmt-mqm-human-evaluation)
 - dependent LM: LaBSE (the original LaBSE link: https://github.com/bojone/labse)
 - dependent parameter tuning framwork: Optuna https://optuna.org/ 
-- before the arXiv releasae, you may want this first hand reading https://drive.google.com/drive/folders/1MuRME1hEnVppYrtYTjRPEnabtUO_J-mq?usp=sharing
+- before the arXiv releasae, you may want this first hand our paper reading https://drive.google.com/drive/folders/1MuRME1hEnVppYrtYTjRPEnabtUO_J-mq?usp=sharing
 - cite our paper (with bibtex format): 
 
     Gleb Erofeev, Irina Sorokina, Aaron Li-Feng Han, and Serge Gladkoff. 2021. cushLEPOR uses LABSE distilled knowledge to improve correlation with
