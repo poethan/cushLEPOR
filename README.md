@@ -8,6 +8,7 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
 - readily tuned cushLEPOR for en-de: the parameter setting;
 - readily tuned cushLEPOR for zh-en: the parameter setting;
 - our implementing tool: hLEPOR (https://pypi.org/project/hLepor/)
+- detailed hLEPOR algorithm interpretation paper from WMT2013 https://aclanthology.org/W13-2253/ 
 - dependent human label data: WMT20-MQM/pSQM ( the original link https://github.com/google/wmt-mqm-human-evaluation)
 - dependent LM: LaBSE (the original LaBSE link: https://github.com/bojone/labse)
 - dependent parameter tuning framwork: Optuna https://optuna.org/ 
@@ -32,6 +33,9 @@ human translation evaluations. In Proceedings for the MT summit - User Track (In
     publisher = "Association for Computational Linguistics \& AMTA",
     url = "https://www.aclweb.org/anthology/"
 }
+
+- further readings: MT evaluation survey covering most auto metrics and human eval: https://arxiv.org/abs/2105.03311
+
 
 - Contact: lifeng.han[a-t]adaptcentre.ie & serge.gladkoff[a-t]logrusglobal.com
 - Institutes and orgnization: ADAPT reserach Centre (adaptcentre.ie) & Logrus Global (https://logrusglobal.com/)
