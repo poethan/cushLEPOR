@@ -13,12 +13,13 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
 - dependent parameter tuning framwork: Optuna https://optuna.org/ 
 - cite our paper (with bibtex format): 
 
-    Gleb Erofeev, Irina Sorokina, Aaron Li-Feng Han, and Serge Gladkoff. 2021. cushlepor uses labse distilled knowledge to improve correlation with human translations. In Proceedings for the MT summit - User Track (In Press), online. Association for Computa- tional Linguistics & AMTA. https://web.cvent.com/hub/events/edc9b9ba-7dc5-4526-a06f-1d2cc96a5939 
+    Gleb Erofeev, Irina Sorokina, Aaron Li-Feng Han, and Serge Gladkoff. 2021. cushLEPOR uses LABSE distilled knowledge to improve correlation with
+human translation evaluations. In Proceedings for the MT summit - User Track (In Press), online. Association for Computa- tional Linguistics & AMTA. https://web.cvent.com/hub/events/edc9b9ba-7dc5-4526-a06f-1d2cc96a5939 
 
     Forthcoming ''cushLEPOR: Customised hLEPOR Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements".  Han et al. In WMT21 metrics task.
 
 @inproceedings{cushLEPOR21MTsummit,
-    title = "cushLEPOR uses LABSE distilled knowledge to improve correlation with human translations",
+    title = "cushLEPOR uses LABSE distilled knowledge to improve correlation with human translation evaluations",
     author = "Gleb Erofeev and
         Irina Sorokina	and 
     Aaron Li-Feng Han and
