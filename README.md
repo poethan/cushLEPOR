@@ -37,7 +37,7 @@ human translation evaluations. In Proceedings for the MT summit - User Track (In
     url = "https://www.aclweb.org/anthology/"
 }
 
-- further readings: MT evaluation survey covering most auto metrics and human eval: https://arxiv.org/abs/2105.03311
+- further readings: MT evaluation survey covering most auto metrics and human eval, as well as Quality Estimation without using translation references: https://arxiv.org/abs/2105.03311
 
 
 - Contact: lifeng.han[a-t]adaptcentre.ie & serge.gladkoff[a-t]logrusglobal.com
