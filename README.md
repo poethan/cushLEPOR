@@ -7,8 +7,9 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
 
 - readily tuned cushLEPOR for en-de: the parameter setting;
 - readily tuned cushLEPOR for zh-en: the parameter setting;
-- our implementing tool: hLEPOR (https://pypi.org/project/hLepor/)
+- our implementing tool: Python ported hLEPOR (https://pypi.org/project/hLepor/)
 - Original hLEPOR algorithm interpretation paper from WMT2013 https://aclanthology.org/W13-2253/ 
+
 - dependent human label data: WMT20-MQM/pSQM ( the original link https://github.com/google/wmt-mqm-human-evaluation)
 - dependent LM: LaBSE (the original LaBSE link: https://github.com/bojone/labse)
 - dependent parameter tuning framwork: Optuna https://optuna.org/ 
