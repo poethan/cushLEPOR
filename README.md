@@ -1,6 +1,8 @@
 # cushLEPOR: Customised hLEPOR Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements
 cushLEPOR submission to WMT2021 Metric Shared Task: place holder for the data to be shared.
 
+iead behind: take advantage of huge language models, but use a light weight fasion; also use human evlauation labled scores, tune the automatic metric. overall: towards high quality human level eval but using distilled knowledge models!
+
 cushLEPOR(LM): tuned version using language model LaBSE (Language-agnostic BERT Sentence Embedding) by Feng et al (2020).
 
 cushLEPOR(pSQM): tuned version using human professional annotated score labels (Scalar Quality Metric ) using WMT20 data by Freitag et al (2021).
