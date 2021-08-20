@@ -8,14 +8,14 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
 - readily tuned cushLEPOR for en-de: the parameter setting;
 - readily tuned cushLEPOR for zh-en: the parameter setting;
 - our implementing tool: hLEPOR (https://pypi.org/project/hLepor/)
-- detailed hLEPOR algorithm interpretation paper from WMT2013 https://aclanthology.org/W13-2253/ 
+- Original hLEPOR algorithm interpretation paper from WMT2013 https://aclanthology.org/W13-2253/ 
 - dependent human label data: WMT20-MQM/pSQM ( the original link https://github.com/google/wmt-mqm-human-evaluation)
 - dependent LM: LaBSE (the original LaBSE link: https://github.com/bojone/labse)
 - dependent parameter tuning framwork: Optuna https://optuna.org/ 
-- before the arXiv releasae, you may want this first hand our paper reading https://drive.google.com/drive/folders/1MuRME1hEnVppYrtYTjRPEnabtUO_J-mq?usp=sharing
+- before the arXiv releasae, you may want this first hand cushLEPOR paper reading https://drive.google.com/drive/folders/1MuRME1hEnVppYrtYTjRPEnabtUO_J-mq?usp=sharing
 - cite our paper (with bibtex format): 
 
-    Gleb Erofeev, Irina Sorokina, Aaron Li-Feng Han, and Serge Gladkoff. 2021. cushLEPOR uses LABSE distilled knowledge to improve correlation with
+    Gleb Erofeev, Irina Sorokina, Lifeng Han, and Serge Gladkoff. 2021. cushLEPOR uses LABSE distilled knowledge to improve correlation with
 human translation evaluations. In Proceedings for the MT summit - User Track (In Press), online. Association for Computa- tional Linguistics & AMTA. https://web.cvent.com/hub/events/edc9b9ba-7dc5-4526-a06f-1d2cc96a5939 
 
     Forthcoming ''cushLEPOR: Customised hLEPOR Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements".  Han et al. In WMT21 metrics task.
@@ -24,7 +24,7 @@ human translation evaluations. In Proceedings for the MT summit - User Track (In
     title = "cushLEPOR uses LABSE distilled knowledge to improve correlation with human translation evaluations",
     author = "Gleb Erofeev and
         Irina Sorokina	and 
-    Aaron Li-Feng Han and
+    Lifeng Han and
     Serge Gladkoff ",
     booktitle = "Proceedings for the MT summit - User Track (In Press)",
     month = August,
