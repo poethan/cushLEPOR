@@ -1,7 +1,7 @@
 # cushLEPOR: Customised hLEPOR Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements
 cushLEPOR submission to WMT2021 Metric Shared Task, and MTsummit2021 presentation: place holder for the data to be shared.
 
-##News: cushLEPOR(LM) achieved cluster-1 winner ranking in WMT21 on the Chinese-to-English and English-to-German that we trained it on. In addition, hLEPOR using default parameter setting achieved cluster-1 winner ranking on English-to-Russian, as in WMT13.
+##News: cushLEPOR(LM) achieved cluster-1 winner ranking in WMT21 on the Chinese-to-English and English-to-German News and TED domain (Tables 12 and 23 in finding paper, ref: http://www.statmt.org/wmt21/pdf/2021.wmt-1.73.pdf). In addition, hLEPOR using default parameter setting achieved cluster-1 winner ranking on English-to-Russian (on TED domain, Table 25 in finding paper), as in WMT13. 
 
 The idea behind: take advantage of huge language models, but use a light weight fasion; also use human evaluation labled scores, tune the automatic metric. overall: towards high quality human level eval via auto-metric using distilled knowledge models!
 
