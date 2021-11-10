@@ -23,7 +23,7 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
     Gleb Erofeev, Irina Sorokina, Lifeng Han, and Serge Gladkoff. 2021. cushLEPOR uses LABSE distilled knowledge to improve correlation with
 human translation evaluations. In Proceedings for the MT summit - User Track (In Press), online. Association for Computa- tional Linguistics & AMTA. https://pypi.org/project/hLepor/ 
 
-    Forthcoming ''CushLEPOR: Customised hLEPOR Metric Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements".  Han et al. In WMT21 metrics task.
+    Forthcoming ''cushLEPOR: Customised hLEPOR Metric Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements".  Lifeng Han and Irina Sorokina and Gleb Erofeev and Serge Gladkoff. 2021. In Proceedings of the Sixth Conference on Machine Translation (WMT), pages 1019–1028.
 
 @inproceedings{cushLEPOR21MTsummit,
     title = "cushLEPOR uses LABSE distilled knowledge to improve correlation with human translation evaluations",
