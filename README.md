@@ -1,7 +1,7 @@
 # cushLEPOR: Customised hLEPOR Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements
 cushLEPOR submission to WMT2021 Metric Shared Task, and MTsummit2021 presentation: place holder for the data to be shared.
 
-##News: cushLEPOR(LM) achieved cluster-1 winner ranking in WMT21 on the Chinese-to-English and English-to-German News and TED domain (Tables 8, 12 and 23 in finding paper, ref: http://www.statmt.org/wmt21/pdf/2021.wmt-1.73.pdf). In addition, hLEPOR using default parameter setting achieved cluster-1 winner ranking on English-to-Russian (on TED domain, Table 25 in finding paper), as in WMT13. (Take-away: If you do en->de and zh->en MT, or en->ru, our metric cushLEPOR and hLEPOR will be one of your alternative choices whenever BLEU fails to indicates your model improvement! poster 67.)
+##News: cushLEPOR(LM) achieved cluster-1 winner ranking in WMT21 on the Chinese-to-English and English-to-German News and TED domain (Tables 8, 12 and 23 in finding paper, ref: http://www.statmt.org/wmt21/pdf/2021.wmt-1.73.pdf). In addition, hLEPOR using default parameter setting achieved cluster-1 winner ranking on English-to-Russian (on TED domain, Table 25 in finding paper), as in WMT13(Table-3: findings paper http://www.statmt.org/wmt13/pdf/WMT02.pdf). (Take-away: If you do en->de and zh->en MT, or en->ru, our metric cushLEPOR and hLEPOR will be one of your alternative choices whenever BLEU fails to indicates your model improvement! poster 67 in WMT21)
 
 Download our data submitted to WMT21:
 https://drive.google.com/drive/folders/1jEtJZFJw9NqNgaZ6EGAjqW4JbM8Uag5V?usp=sharing
