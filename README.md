@@ -3,6 +3,9 @@ cushLEPOR submission to WMT2021 Metric Shared Task, and MTsummit2021 presentatio
 
 ##News: cushLEPOR(LM) achieved cluster-1 winner ranking in WMT21 on the Chinese-to-English and English-to-German News and TED domain (Tables 12 and 23 in finding paper, ref: http://www.statmt.org/wmt21/pdf/2021.wmt-1.73.pdf). In addition, hLEPOR using default parameter setting achieved cluster-1 winner ranking on English-to-Russian (on TED domain, Table 25 in finding paper), as in WMT13. (Take-away: If you do en->de and zh->en MT, or en->ru, our metric cushLEPOR and hLEPOR will be one of your alternative choices whenever BLEU fails to indicates your model improvement! poster 67.)
 
+Download our data submitted to WMT21:
+https://drive.google.com/drive/folders/1jEtJZFJw9NqNgaZ6EGAjqW4JbM8Uag5V?usp=sharing
+
 The idea behind: take advantage of huge language models, but use a light weight fasion; also use human evaluation labled scores, tune the automatic metric. overall: towards high quality human level eval via auto-metric using distilled knowledge models!
 
 cushLEPOR(LM): tuned version using language model LaBSE (Language-agnostic BERT Sentence Embedding) by Feng et al (2020).
