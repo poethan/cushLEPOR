@@ -11,7 +11,7 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
 
 - readily tuned cushLEPOR for en-de: the parameter setting;
 - readily tuned cushLEPOR for zh-en: the parameter setting;
-- automatic tuned parameter discription paper: https://arxiv.org/abs/2108.09484 or http://www.statmt.org/wmt21/pdf/2021.wmt-1.109.pdf  
+- cushLEPOR automatic tuned parameter discription paper: https://arxiv.org/abs/2108.09484 or http://www.statmt.org/wmt21/pdf/2021.wmt-1.109.pdf  
 - our implementing tool: Python ported hLEPOR (https://pypi.org/project/hLepor/)
 - Original hLEPOR algorithm interpretation paper including mannually tuned/suggested parameter set per lang https://aclanthology.org/W13-2253/ 
 
