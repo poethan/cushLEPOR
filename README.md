@@ -26,7 +26,7 @@ cushLEPOR(pSQM): tuned version using human professional annotated score labels (
     Gleb Erofeev, Irina Sorokina, Lifeng Han, and Serge Gladkoff. 2021. cushLEPOR uses LABSE distilled knowledge to improve correlation with
 human translation evaluations. In Proceedings for the MT summit - User Track (In Press), online. Association for Computa- tional Linguistics & AMTA. https://pypi.org/project/hLepor/ 
 
-    Forthcoming ''cushLEPOR: Customised hLEPOR Metric Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements".  Lifeng Han and Irina Sorokina and Gleb Erofeev and Serge Gladkoff. 2021. In Proceedings of the Sixth Conference on Machine Translation (WMT), pages 1019–1028.
+   Forthcoming ''cushLEPOR: customising hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE".  Lifeng Han and Irina Sorokina and Gleb Erofeev and Serge Gladkoff. 2021. In Proceedings of the Sixth Conference on Machine Translation (WMT), pages 1019–1028.
 
 @inproceedings{cushLEPOR21MTsummit,
     title = "cushLEPOR uses LABSE distilled knowledge to improve correlation with human translation evaluations",
@@ -42,13 +42,12 @@ human translation evaluations. In Proceedings for the MT summit - User Track (In
     url = "https://www.aclweb.org/anthology/"
 }
 
-@misc{han2021cushlepor,
-      title={CushLEPOR: Customised hLEPOR Metric Using LABSE Distilled Knowledge Model to Improve Agreement with Human Judgements}, 
-      author={Lifeng Han and Irina Sorokina and Gleb Erofeev and Serge Gladkoff},
-      year={2021},
-      eprint={2108.09484},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@ inproceedings{Han2021CushLEPORCH,
+  title={cushLEPOR: customising hLEPOR metric using Optuna for higher
+agreement with human judgments or pre-trained language model LaBSE},
+  author={Lifeng Han and I. Sorokina and Gleb Erofeev and S. Gladkoff},
+  booktitle ={Proceedings of the Sixth Conference on Machine Translation (WMT2021)},
+  year={2021}
 }
 
 - further readings: MT evaluation survey covering most auto metrics and human eval, as well as Quality Estimation without using translation references: https://arxiv.org/abs/2105.03311
